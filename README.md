@@ -15,7 +15,7 @@ I'm doing a master's degree in CS, and I'm currenlty employed as a machine learn
 - Git;
 
 ### Some of my long term goals
-- Write some cheat sheets about [machine learning](machine_learning);
+- ✍️ Write some cheat sheets about [machine learning](machine_learning);
 - Follow some MOOCs about computer vision;
 - Use some Kaggle datasets to improve my skills in machine learning (such as [this one](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) or [this one](https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification?select=images));
 - Improve my skills in Docker and Kubernetes;
