@@ -1,4 +1,33 @@
-## Outils de développement
+# Hello 👋
+
+I'm Alix, and I like to make various things.  
+I'm doing a master's degree in CS, and I'm currenlty employed as a machine learning engineer for computer vision.
+
+### Some of my skills
+- TensorFlow (CNN, training, validation and testing of the architecture, creation and loading of model checkpoints, use of KPIs);
+- Scikit-learn (out-of-core learning, SGD, SVM, Multinomial NB, Perceptron);
+- OpenCV (feature matching with FLANN);
+- Tesseract;
+- Numpy;
+- Pandas
+- MLFlow;
+- PIL;
+- Git;
+
+### Some of my long term goals
+- Write some cheat sheets about machine learning;
+- Follow some MOOCs about computer vision;
+- Use some Kaggle datasets to improve my skills in machine learning (such as [this one](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) or [this one](https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification?select=images));
+- Improve my skills in Docker and Kubernetes;
+- Learn more about various other machine learning approches such as: `LSM`, `GAN`, `Q-learning` and `deep Q-learning`;
+- Master x86-64 and make some projects in assembly;
+- Master Ghidra and IDA;
+- Learn some maths for finance;
+- Learn Julia;
+- Drink less coffee ☕
+
+
+# 
 
 <p>
   <a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank" rel="noreferrer">
@@ -11,7 +40,6 @@
 </p>
 
 
-## Technologies, frameworks et bibliothèques préférés
 <p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -39,6 +67,10 @@
   
   <a href="https://matplotlib.org/">
     <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="matplotlib-logo-symbol-svg" border="0">
+  </a>
+  
+  <a href="https://www.mlflow.org/">
+    <img src="https://www.mlflow.org/docs/1.5.0/_static/MLflow-logo-final-black.png" height="40" alt="mlflow-logo-symbol-svg" border="0">
   </a>
   
 </p>
