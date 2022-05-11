@@ -73,5 +73,4 @@
 - K-fold cross validation
 
 ### Table of various algorithms
-
-// TODO, explain their type of learning (supervised or not, etc.), their application (ex: classification, regression), if "out of core" is possible
+cf. [This Markdown file](./ml_comparison.md)
