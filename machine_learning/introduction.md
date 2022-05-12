@@ -1,6 +1,8 @@
 # Machine learning useful notes
 
 ## Pipeline
+It is importnt to have a machine learning pipeline. It is a way to codify, automate and industrialize the workflow of a machine learning project.
+
 ### Global pipeline
 
 1. Retrieve data
