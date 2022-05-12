@@ -19,10 +19,10 @@ I'm doing a master's degree in CS, and I'm currenlty employed as a machine learn
 - Follow some MOOCs about computer vision;
 - Use some Kaggle datasets to improve my skills in machine learning (such as [this one](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) or [this one](https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification?select=images));
 - Improve my skills in Docker and Kubernetes;
-- Learn more about various other machine learning approches such as: `LSM`, `GAN`, `Q-learning` and `deep Q-learning`;
+- Learn more about various other machine learning approches such as: `LSTM`, `GAN`, `Q-learning` and `deep Q-learning`;
 - Master x86-64 and make some projects in assembly;
 - Master Ghidra and IDA;
-- Develop a tool that group some dorks (Google dorks, other search engine dorks)
+- Develop a tool that group some dorks (Google dorks, or other search engine dorks)
 - Learn some maths for finance;
 - Learn Julia;
 - Drink less coffee ☕
