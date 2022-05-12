@@ -12,7 +12,7 @@ I'm doing a master's degree in CS, and I'm currenlty employed as a machine learn
 - Pandas;
 - MLFlow;
 - PIL;
-- Git;
+- Git.
 
 ### Some of my long term goals
 - ✍️ Write some cheat sheets about [machine learning](machine_learning);
