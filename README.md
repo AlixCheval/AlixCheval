@@ -24,6 +24,7 @@ I'm doing a master's degree in CS, and I'm currenlty employed as a machine learn
 - Master Ghidra and IDA;
 - Develop a tool that group some dorks (Google dorks, or other search engine dorks)
 - Learn some maths for finance;
+- Do some [time series forecasting](https://machinelearningmastery.com/start-here/#deep_learning_time_series);
 - Learn Julia;
 - Drink less coffee ☕
 
