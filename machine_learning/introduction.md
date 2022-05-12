@@ -5,6 +5,8 @@ Right now, it is considered that any problem a human can do in 1 second can be d
 ### Learning
 - [Machine learning mastery](https://machinelearningmastery.com/start-here/)
 - [Deep learning — Wikipedia article](https://en.wikipedia.org/wiki/Deep_learning)
+- Books:
+    - [Hands-on Machine Learning with Scikit-learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) — Aurélien Géron ([GitHub profile](https://github.com/ageron))
 
 ### Datasets
 Some datasets are considered the "hello world" of datasets, such as [MNIST digit dataset](http://yann.lecun.com/exdb/mnist/) or the [UCI Iris dataset](https://archive.ics.uci.edu/ml/datasets/Iris). 
