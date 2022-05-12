@@ -5,11 +5,11 @@ I'm doing a master's degree in CS, and I'm currenlty employed as a machine learn
 
 ### Some of my skills
 - TensorFlow (CNN, training, validation and testing of the architecture, creation and loading of model checkpoints, use of KPIs);
-- Scikit-learn (out-of-core learning, SGD, SVM, Multinomial NB, Perceptron);
+- Scikit-learn (out-of-core learning, mainly SGD, SVM, Multinomial NB and Perceptron);
 - OpenCV (feature matching with FLANN);
 - Tesseract;
 - Numpy;
-- Pandas
+- Pandas;
 - MLFlow;
 - PIL;
 - Git;
