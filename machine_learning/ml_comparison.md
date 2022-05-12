@@ -1,9 +1,10 @@
 # Comparison of various machine learning alogrithms
-
-## Scikit-learn — Choosing the right estimator
+## Scikit-learn
+### Scikit-learn — Choosing the right estimator (original image has names clickable)
 ![Choosing the right estimator](https://scikit-learn.org/stable/_static/ml_map.png)
 
-### Some commonly used models
+### Some commonly used algorithms
+
 [Scikit-learn awesome documentation (supervised, semi-supervised, unsupervised, model selection and evaluation, etc.)](https://scikit-learn.org/stable/user_guide.html).  
 Source: [link](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
@@ -40,3 +41,6 @@ Here is a table with some commonly used Scikit-learn algorithms:
 | LabelSpreading              | Semi-supervised              |                |                 |           ✅          |                   |                    |                                          |
 | KMeans                      | Clustering                   | Clustering     |                 |                      |         ✅         |                    |                                          |
 | MiniBatchKMeans             | Clustering                   | Clustering     |                 |                      |         ✅         |                    |                     ✅                    |
+
+
+
