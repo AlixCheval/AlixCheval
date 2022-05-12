@@ -22,6 +22,7 @@ I'm doing a master's degree in CS, and I'm currenlty employed as a machine learn
 - Learn more about various other machine learning approches such as: `LSM`, `GAN`, `Q-learning` and `deep Q-learning`;
 - Master x86-64 and make some projects in assembly;
 - Master Ghidra and IDA;
+- Develop a tool that group some dorks (Google dorks, other search engine dorks)
 - Learn some maths for finance;
 - Learn Julia;
 - Drink less coffee ☕
