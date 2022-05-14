@@ -10,17 +10,29 @@ Right now, it is considered that any problem a human can do in 1 second can be d
 
 ### Datasets
 Some datasets are considered the "hello world" of datasets, such as [MNIST digit dataset](http://yann.lecun.com/exdb/mnist/) or the [UCI Iris dataset](https://archive.ics.uci.edu/ml/datasets/Iris). 
+
+#### Various
 - [Subreddit datasets](https://www.reddit.com/r/datasets/)
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 - [Academic torrents — 127.15TB of research data](https://academictorrents.com/)
 - [Wikipedia dataset](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
 - [Open Data Network](https://www.opendatanetwork.com/)
-- [Nasa Earth science datasets](https://earthdata.nasa.gov/)
-- [Nasa space datasets](https://pds.nasa.gov/datasearch/data-search/)
 - [AWS public datasets](https://registry.opendata.aws/)
 - [Google Cloud public datasets](https://cloud.google.com/bigquery/public-data/)
-- [QuantConnect datasets (for trading)](https://www.quantconnect.com/datasets)
 - [UCI Machine Learning datasets](https://archive.ics.uci.edu/ml/index.php)
+
+#### Medical
+- Alzheimer: [ADNI](https://adni.loni.usc.edu/data-samples/)
+- Brain tumor: MICCAI ([2021](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification))
+- Various Medical : [UK Biobank](https://www.ukbiobank.ac.uk/) (need account approval)
+- Schizophrenia & bipolar disorder: [Stanley Medical Research Institute](https://www.stanleygenomics.org/)
+
+#### Earth & Space
+- [Nasa Earth science datasets](https://earthdata.nasa.gov/)
+- [Nasa space datasets](https://pds.nasa.gov/datasearch/data-search/)
+
+#### Finance
+- [QuantConnect datasets (for trading)](https://www.quantconnect.com/datasets)
 
 
 ## Pipeline
