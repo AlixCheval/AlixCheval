@@ -25,7 +25,7 @@ Some datasets are considered the "hello world" of datasets, such as [MNIST digit
 - Alzheimer: [ADNI](https://adni.loni.usc.edu/data-samples/)
 - Brain tumor: MICCAI ([2021](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification))
 - Various Medical : [UK Biobank](https://www.ukbiobank.ac.uk/) (need account approval)
-- Schizophrenia & bipolar disorder: [Stanley Medical Research Institute](https://www.stanleygenomics.org/)
+- Schizophrenia & bipolar disorder: [Stanley Medical Research Institute](https://www.stanleygenomics.org/) (need request approval)
 
 #### Earth & Space
 - [Nasa Earth science datasets](https://earthdata.nasa.gov/)
